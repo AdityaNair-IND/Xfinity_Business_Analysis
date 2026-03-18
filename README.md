@@ -6,7 +6,7 @@ This project explores **customer churn, loyalty, billing pain points, and overag
 
 ##  Project Objective
 
-To simulate and study the **current state of Xfinity Mobile's services and competitor benchmarks**, uncovering **opportunities for business improvements** in customer retention, loyalty growth, pricing friction, and churn prevention — with an aim to:
+To simulate and study the **current state of ISP's services and competitor benchmarks**, uncovering **opportunities for business improvements** in customer retention, loyalty growth, pricing friction, and churn prevention — with an aim to:
 
 - Build a **360° view of customer lifecycle and friction**
 - Discover **churn risk pockets** across credit, billing, plan design, and experience resolution
